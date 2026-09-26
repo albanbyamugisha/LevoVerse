@@ -7,7 +7,7 @@ A proposed unified digital social ecosystem connecting relationships, conversati
 **Status: Concept / Planning / Architecture Stage**  
 **Development model: Public planning; implementation has not begun**  
 **License: To be determined**  
-**Founder/project lead: Alban — aka Altechie / Just Levo**
+**Founder/project lead: Alban Byamugisha**
 
 LevoVerse is a product vision and planning effort, not an available application. This README is its initial master blueprint: a common reference for founders, engineers, designers, product managers, safety teams, contributors, partners, and potential stakeholders. It describes what could be built, why it might matter, and what evidence is needed before committing resources.
 
